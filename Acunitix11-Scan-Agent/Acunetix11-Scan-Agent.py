@@ -1,3 +1,6 @@
+'''
+Use the awvs api to scan
+'''
 import requests
 import json
 import tableprint
@@ -6,6 +9,7 @@ import sys
 import openpyxl as ws
 from config import *
 requests.packages.urllib3.disable_warnings()
+
 
 #抓取scans内容处理
 def get_scans():
