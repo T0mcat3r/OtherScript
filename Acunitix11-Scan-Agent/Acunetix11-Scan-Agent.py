@@ -1,5 +1,5 @@
 '''
-Use the awvs api to scan
+Use the awvs api to scan,调用awvs接口扫描
 '''
 import requests
 import json
