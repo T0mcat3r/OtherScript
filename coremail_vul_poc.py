@@ -1,5 +1,6 @@
 #-*- Coding: utf-8 -*-
 '''
+击者可以通过访问apiws、mailsms、wmsvr接口和模块获取邮件服务配置信息（如：数据库连接账号密码），通过泄露的信息，从而进一步进行越权访问。
 Author: Vulkey_Chen
 Email: gh0stkey@hi-ourlife.com
 Website: www.hi-ourlife.com
